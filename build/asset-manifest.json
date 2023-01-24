@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/nft-market-fork/build/static/js/main.bce1c366.chunk.js",
-    "main.js.map": "/nft-market-fork/build/static/js/main.bce1c366.chunk.js.map",
+    "main.js": "/nft-market-fork/build/static/js/main.9b127313.chunk.js",
+    "main.js.map": "/nft-market-fork/build/static/js/main.9b127313.chunk.js.map",
     "runtime-main.js": "/nft-market-fork/build/static/js/runtime-main.8881a632.js",
     "runtime-main.js.map": "/nft-market-fork/build/static/js/runtime-main.8881a632.js.map",
     "static/js/2.646d141f.chunk.js": "/nft-market-fork/build/static/js/2.646d141f.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.8881a632.js",
     "static/js/2.646d141f.chunk.js",
-    "static/js/main.bce1c366.chunk.js"
+    "static/js/main.9b127313.chunk.js"
   ]
 }

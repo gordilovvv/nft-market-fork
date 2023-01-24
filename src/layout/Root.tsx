@@ -14,7 +14,7 @@ function getLibrary(provider: any): Web3Provider {
 
 const Root = () => {
   return (
-    <Router basename="/">
+    <Router basename="/nft-market-fork/build/">
       <Header />
       <Web3ReactProvider getLibrary={getLibrary}>
         <Connect>
