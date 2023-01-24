@@ -1,8 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { ThemeProvider } from 'theme-ui'
-// import * as Sentry from '@sentry/react'
-// import { Integrations } from '@sentry/tracing'
 import reportWebVitals from './reportWebVitals'
 import { Root } from './layout'
 import theme from './theme'

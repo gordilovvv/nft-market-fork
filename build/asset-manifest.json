@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.da0c52d7.chunk.js",
-    "main.js.map": "/static/js/main.da0c52d7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.65d214b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.65d214b7.js.map",
-    "static/js/2.c4130760.chunk.js": "/static/js/2.c4130760.chunk.js",
-    "static/js/2.c4130760.chunk.js.map": "/static/js/2.c4130760.chunk.js.map",
-    "static/js/3.4f02ba0b.chunk.js": "/static/js/3.4f02ba0b.chunk.js",
-    "static/js/3.4f02ba0b.chunk.js.map": "/static/js/3.4f02ba0b.chunk.js.map",
-    "static/js/4.357f4ebd.chunk.js": "/static/js/4.357f4ebd.chunk.js",
-    "static/js/4.357f4ebd.chunk.js.map": "/static/js/4.357f4ebd.chunk.js.map",
-    "static/js/5.d53bca35.chunk.js": "/static/js/5.d53bca35.chunk.js",
-    "static/js/5.d53bca35.chunk.js.map": "/static/js/5.d53bca35.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.c4130760.chunk.js.LICENSE.txt": "/static/js/2.c4130760.chunk.js.LICENSE.txt"
+    "main.js": "/nft-market-fork/build/static/js/main.bce1c366.chunk.js",
+    "main.js.map": "/nft-market-fork/build/static/js/main.bce1c366.chunk.js.map",
+    "runtime-main.js": "/nft-market-fork/build/static/js/runtime-main.8881a632.js",
+    "runtime-main.js.map": "/nft-market-fork/build/static/js/runtime-main.8881a632.js.map",
+    "static/js/2.646d141f.chunk.js": "/nft-market-fork/build/static/js/2.646d141f.chunk.js",
+    "static/js/2.646d141f.chunk.js.map": "/nft-market-fork/build/static/js/2.646d141f.chunk.js.map",
+    "static/js/3.297957f3.chunk.js": "/nft-market-fork/build/static/js/3.297957f3.chunk.js",
+    "static/js/3.297957f3.chunk.js.map": "/nft-market-fork/build/static/js/3.297957f3.chunk.js.map",
+    "static/js/4.6a89f84e.chunk.js": "/nft-market-fork/build/static/js/4.6a89f84e.chunk.js",
+    "static/js/4.6a89f84e.chunk.js.map": "/nft-market-fork/build/static/js/4.6a89f84e.chunk.js.map",
+    "static/js/5.b0a310dc.chunk.js": "/nft-market-fork/build/static/js/5.b0a310dc.chunk.js",
+    "static/js/5.b0a310dc.chunk.js.map": "/nft-market-fork/build/static/js/5.b0a310dc.chunk.js.map",
+    "index.html": "/nft-market-fork/build/index.html",
+    "static/js/2.646d141f.chunk.js.LICENSE.txt": "/nft-market-fork/build/static/js/2.646d141f.chunk.js.LICENSE.txt",
+    "static/js/3.297957f3.chunk.js.LICENSE.txt": "/nft-market-fork/build/static/js/3.297957f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.65d214b7.js",
-    "static/js/2.c4130760.chunk.js",
-    "static/js/main.da0c52d7.chunk.js"
+    "static/js/runtime-main.8881a632.js",
+    "static/js/2.646d141f.chunk.js",
+    "static/js/main.bce1c366.chunk.js"
   ]
 }
